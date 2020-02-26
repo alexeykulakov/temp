@@ -1,0 +1,113 @@
+Non-user install because user site-packages disabled
+Created temporary directory: /tmp/pip-ephem-wheel-cache-3n06zcmj
+Created temporary directory: /tmp/pip-req-tracker-ejzpqgit
+Initialized build tracking at /tmp/pip-req-tracker-ejzpqgit
+Created build tracker: /tmp/pip-req-tracker-ejzpqgit
+Entered build tracker: /tmp/pip-req-tracker-ejzpqgit
+Created temporary directory: /tmp/pip-install-xp200_sh
+1 location(s) to search for versions of perspective-python:
+* https://pypi.org/simple/perspective-python/
+Fetching project page and analyzing links: https://pypi.org/simple/perspective-python/
+Getting page https://pypi.org/simple/perspective-python/
+Found index url https://pypi.org/simple
+Looking up "https://pypi.org/simple/perspective-python/" in the cache
+Request header has "max_age" as 0, cache bypassed
+Starting new HTTPS connection (1): pypi.org:443
+https://pypi.org:443 "GET /simple/perspective-python/ HTTP/1.1" 304 0
+  Found link https://files.pythonhosted.org/packages/1d/f5/17a79448378d35c96ebdc7275b7343cb7fe43e4cd74d72049814912bba09/perspective-python-0.0.1.tar.gz#sha256=532c749e28aa35029d9cb027ae98fec68073e0654e9b81d7fdde438217e89cca (from https://pypi.org/simple/perspective-python/), version: 0.0.1
+  Found link https://files.pythonhosted.org/packages/10/fd/3fa05ff1a5b5e76792619389a0d1460a8277a6b89f05570a9ff7c6f25e65/perspective-python-0.0.2.tar.gz#sha256=63dfc05d449480301495b4f00c32f746e451399f3ec7d019b9252a30cfb20126 (from https://pypi.org/simple/perspective-python/), version: 0.0.2
+  Found link https://files.pythonhosted.org/packages/69/d6/1968026f1e3c32d5d41ace3f30f4aca4240b3ca60b601e654b3c7f6c56d4/perspective-python-0.0.3.tar.gz#sha256=b2d7a9c4f342d3ff661714f3675ca999f8ced87bbb82cdd561035883152f07e6 (from https://pypi.org/simple/perspective-python/), version: 0.0.3
+  Found link https://files.pythonhosted.org/packages/0c/44/faa0fb02b2a1835835979a590b4921c0384f033c70e8f1f58b7a2ca2214a/perspective-python-0.0.4.tar.gz#sha256=6c34d1bdf8c8578a86af793375c6266460556036bc4822433d88128e6a3717b6 (from https://pypi.org/simple/perspective-python/), version: 0.0.4
+  Found link https://files.pythonhosted.org/packages/48/cf/a299a9b266db3a9a1a81a2ab430eafe144d5b30560bf3acc0a75f0fbbc12/perspective-python-0.0.6.tar.gz#sha256=a5b3fd92df877d213bf677b647a3b591eb19bcf43c0650828bb0fd3f1d96c436 (from https://pypi.org/simple/perspective-python/), version: 0.0.6
+  Found link https://files.pythonhosted.org/packages/3c/03/7075ad9333e4fac279c893f77daa674ee066b60d68680f24ca4cd25d761b/perspective-python-0.0.7.tar.gz#sha256=4766de4e8259e90c827d92c4e2e3f8071832899d00bc0a685e76dcfb252b5c12 (from https://pypi.org/simple/perspective-python/), version: 0.0.7
+  Found link https://files.pythonhosted.org/packages/4d/dc/50941456d6eaafdde96884e866ec6aa2460df75e1bae0ceb93c13195749e/perspective-python-0.0.8.tar.gz#sha256=7b79800e1ccad1cc38343a5bc02481292dffe703a49534feb8f9574c766a32e9 (from https://pypi.org/simple/perspective-python/), version: 0.0.8
+  Found link https://files.pythonhosted.org/packages/83/91/db0ea5cb11feda61a5a492466300f29d6aea6faa6cb13f8b76d89a538afd/perspective-python-0.0.9.tar.gz#sha256=d1f6b5a6af54e56994d6aaf811a00568c7920115499625c95332f9e1f011ada0 (from https://pypi.org/simple/perspective-python/), version: 0.0.9
+  Found link https://files.pythonhosted.org/packages/af/19/72151c31d85ff5f7071a65ebd8d3410b1e067025ba24b676d2994e8e8aa5/perspective-python-0.0.10.tar.gz#sha256=536d12e89069e23a07e497988e4730eefa224999a624a98924ba716ed4d11b87 (from https://pypi.org/simple/perspective-python/), version: 0.0.10
+  Found link https://files.pythonhosted.org/packages/37/0e/b4ca38d2495e961d6343d83009419256ba57b8da82c609d06773babe2007/perspective-python-0.0.11.tar.gz#sha256=f9789caae5695ae834616bc64caeab9741117db21e99c8f8a1680c5ffd1e0590 (from https://pypi.org/simple/perspective-python/), version: 0.0.11
+  Found link https://files.pythonhosted.org/packages/1a/69/1ea672e0428a2707dbe653af31d6e5da4eb69d52086464dcf4b03eadadc2/perspective-python-0.0.12.tar.gz#sha256=7e55d8fc78f5c973f9b72cc0d74b0c3039000ab17389b77755811f8f11266474 (from https://pypi.org/simple/perspective-python/), version: 0.0.12
+  Found link https://files.pythonhosted.org/packages/20/2f/81561a6243cf1738e90c702d1f5ed4c0817ff2fb1d81ad857b08a89b0be6/perspective-python-0.0.13.tar.gz#sha256=4263c17037a9fdd04a97e8d15c024f476cf7dd1ef013fa1efd86704eb9472d75 (from https://pypi.org/simple/perspective-python/), version: 0.0.13
+  Found link https://files.pythonhosted.org/packages/b9/97/fcacda96fcbae5bab00087bf04169794a8175c4ab4551c83452d80b9f154/perspective-python-0.0.14.tar.gz#sha256=7913bb117ffb99bd676c9517162f9eef4921178fc95b8cbbbd366e6529441791 (from https://pypi.org/simple/perspective-python/), version: 0.0.14
+  Found link https://files.pythonhosted.org/packages/ec/f7/c74f238e89e844f950d08d216b4f2ee63223ba9577d94f30c83966e6e250/perspective-python-0.0.15.tar.gz#sha256=5581266f512fefad08830d7f5d4ae9e0b71fe6402eae30b7399840d08f8f0f33 (from https://pypi.org/simple/perspective-python/), version: 0.0.15
+  Found link https://files.pythonhosted.org/packages/3c/9c/a741fa0472610b3f82928782f9ab44d15d222f888840f7cec25fc3c3965a/perspective-python-0.1.1.tar.gz#sha256=ededed1c43f25ba8d749395904bafa6c3a4c788cd853eaecbaa84e7b0c22aa79 (from https://pypi.org/simple/perspective-python/), version: 0.1.1
+  Found link https://files.pythonhosted.org/packages/ef/e4/10cb45fe29847d68965ef6f0c25f659d805df209c3c27a2e8e104d6d3f3c/perspective-python-0.1.2.tar.gz#sha256=d11ba0268976196d959267889ff72f4a31142b04f9ba58d7be97fee467dd8bd6 (from https://pypi.org/simple/perspective-python/), version: 0.1.2
+  Found link https://files.pythonhosted.org/packages/00/14/ca256f812e7785882f280a8b8cb5ac5a980384c2a36f46798a2ddc70a80f/perspective-python-0.1.3.tar.gz#sha256=7f07ea6d70ba25583f7eaaec877ce97d75c516d77a4c4368afd07602eec2ded1 (from https://pypi.org/simple/perspective-python/), version: 0.1.3
+  Found link https://files.pythonhosted.org/packages/93/5d/5a703b25571db3191fb087b73edc558d3ce8f9a58a28f6446823769c53ab/perspective-python-0.1.4.tar.gz#sha256=e612ad8b63d339b30d54ecf780d04e18dba9325404969b32a52481e1d9b7f968 (from https://pypi.org/simple/perspective-python/), version: 0.1.4
+  Found link https://files.pythonhosted.org/packages/b3/da/b341a11066d817509e1c5d52d328dc87367943adc7bf10d7676b7ed6f6f4/perspective-python-0.1.6.tar.gz#sha256=d38da951b3b1297aaeac9362dde1747b685fb4c36583709b60ce282f11cd5a4c (from https://pypi.org/simple/perspective-python/), version: 0.1.6
+  Found link https://files.pythonhosted.org/packages/4b/bb/cf6486116cf5a7e7927cd39c2c3ea74f09e99d3feee39fe124931501e7b6/perspective-python-0.1.8.tar.gz#sha256=0c2e2a64a195cd1b4e8b62014aae52e06668c8f40c98edbad3fa5d84fbd82647 (from https://pypi.org/simple/perspective-python/), version: 0.1.8
+  Found link https://files.pythonhosted.org/packages/8d/cd/b44aac3e1ddf0b2c7d964f8b3319ff4cab5f621a62d1f901b2140cc3ccb7/perspective-python-0.1.9.tar.gz#sha256=01ab1ae06bd5b31ec37927e539a30e79f6a2051530e78d316c9bb5966900c01b (from https://pypi.org/simple/perspective-python/), version: 0.1.9
+  Found link https://files.pythonhosted.org/packages/06/6d/7a3bccf38e624f86cb23a9011d626754404816eb809bb215ddb141c3ac52/perspective-python-0.1.10.tar.gz#sha256=6f413b95b5396ea575b12a90891f16f43fe146164e669c769012dcc224be3189 (from https://pypi.org/simple/perspective-python/), version: 0.1.10
+  Found link https://files.pythonhosted.org/packages/5a/fd/796bf2e608687855268d21acf20774c86e3e1883fad71b2c433d6f980f94/perspective-python-0.1.11.tar.gz#sha256=e63946d98129488252ad4d11cc2f302115c627605e96b53a3325129b14b54389 (from https://pypi.org/simple/perspective-python/), version: 0.1.11
+  Found link https://files.pythonhosted.org/packages/56/12/ef025452256926ae464ad386ee8fe36cf88408f7a5c5dac739a0241a18a9/perspective_python-0.1.11-py3-none-any.whl#sha256=ff2d106c15451c3f61496dfe297f81b0b6c51298687f7ab800486856696b4636 (from https://pypi.org/simple/perspective-python/), version: 0.1.11
+  Found link https://files.pythonhosted.org/packages/27/30/f3bd86068808ed890a898c8fc90579ce6af4e100bc87b33e6582a36058c2/perspective-python-0.4.0rc6.tar.gz#sha256=37c874d2f56ad1d12f4a5320f9e7f47608732ece802553caca5b10c5610bc693 (from https://pypi.org/simple/perspective-python/), version: 0.4.0rc6
+  Skipping link: none of the wheel's tags match: cp27-cp27m-macosx_10_15_x86_64: https://files.pythonhosted.org/packages/b5/4e/7a222ae05b4c65a995fafd2f6bef9899e6a9414651b426184141c1c322ce/perspective_python-0.4.0rc6-cp27-cp27m-macosx_10_15_x86_64.whl#sha256=ccfc5d0ba8237ca05150f34506ab986259e3acb3d42ddaf9c846b147e0597b37 (from https://pypi.org/simple/perspective-python/)
+  Skipping link: none of the wheel's tags match: cp37-cp37m-macosx_10_14_x86_64: https://files.pythonhosted.org/packages/62/06/fd6b9950fb3e6f1bdf8e8556cc35dbeea799124d7bba4b18502523862ef7/perspective_python-0.4.0rc6-cp37-cp37m-macosx_10_14_x86_64.whl#sha256=2e3596cea57efaf8904a0e40cc122644edb0203fedcf419c0e775b9acbcbc6ba (from https://pypi.org/simple/perspective-python/)
+  Found link https://files.pythonhosted.org/packages/43/87/24af938ca6bfb65bb922aabd16acd1a755f439dabe86b7adb8004e52349c/perspective_python-0.4.0rc6-cp37-cp37m-manylinux2010_x86_64.whl#sha256=e698fc6a06021a937029827972a2b9bfee121f8772c7df3455c8e147fee96bbb (from https://pypi.org/simple/perspective-python/), version: 0.4.0rc6
+  Found link https://files.pythonhosted.org/packages/c5/76/7ba5a81212a5f82ecd6003f305def81c3f9ff7f4486c3f303930a6b74274/perspective-python-0.4.1.tar.gz#sha256=2cf5e859020924d9adb9e29b0ffa33c73980e660d3767096a3a6f76106406ea7 (from https://pypi.org/simple/perspective-python/), version: 0.4.1
+  Skipping link: none of the wheel's tags match: cp27-cp27m-macosx_10_15_x86_64: https://files.pythonhosted.org/packages/9b/4c/1e69ca114de63b9126bf65b7dff39077a64fa0f641faa117af51e5eb8c89/perspective_python-0.4.1-cp27-cp27m-macosx_10_15_x86_64.whl#sha256=bc1894becdaf5dec726bc829104e81ed4dc1a964d5819ae053fb4a2205b9b2e4 (from https://pypi.org/simple/perspective-python/)
+  Skipping link: none of the wheel's tags match: cp37-cp37m-macosx_10_14_x86_64: https://files.pythonhosted.org/packages/e6/7d/d3f9fbc3961eef314562b330fa97b3251d7dc0ad69417c66fde213f80871/perspective_python-0.4.1-cp37-cp37m-macosx_10_14_x86_64.whl#sha256=c3596c1f9387b5f142695f5c89ae417ef9848dab96d73e4bd89eec1f01aa5aba (from https://pypi.org/simple/perspective-python/)
+  Found link https://files.pythonhosted.org/packages/06/ec/c6d380503dac4968d026ffd511f1941c1e724dda2009e643ae180a02c5c6/perspective-python-0.4.2.tar.gz#sha256=dc900db43957a2b76ddbc6de991c942c4805881d7adebb1b10e9dfc38ecfdcf1 (from https://pypi.org/simple/perspective-python/), version: 0.4.2
+  Found link https://files.pythonhosted.org/packages/1c/d1/595ffd299c414c9ffd9263ae5b742885b4c8888c27b2ab44d59d19904cfc/perspective-python-0.4.2.post1.tar.gz#sha256=debc879c1e1fbb82f57fc55beb924083f1576e7d2ddcf4d0683564ba01546a12 (from https://pypi.org/simple/perspective-python/), version: 0.4.2.post1
+Given no hashes to check 27 links for project 'perspective-python': discarding no candidates
+Using version 0.4.2.post1 (newest of versions: 0.0.1, 0.0.2, 0.0.3, 0.0.4, 0.0.6, 0.0.7, 0.0.8, 0.0.9, 0.0.10, 0.0.11, 0.0.12, 0.0.13, 0.0.14, 0.0.15, 0.1.1, 0.1.2, 0.1.3, 0.1.4, 0.1.6, 0.1.8, 0.1.9, 0.1.10, 0.1.11, 0.4.1, 0.4.2, 0.4.2.post1)
+Using cached wheel link: file:///home/akulakov/.cache/pip/wheels/eb/d2/bc/00456fd67dd5995ab188ef49ba448fac285b6895ee4c0dfd87/perspective_python-0.4.2.post1-cp37-cp37m-linux_x86_64.whl
+Processing /home/akulakov/.cache/pip/wheels/eb/d2/bc/00456fd67dd5995ab188ef49ba448fac285b6895ee4c0dfd87/perspective_python-0.4.2.post1-cp37-cp37m-linux_x86_64.whl
+  Added perspective-python from file:///home/akulakov/.cache/pip/wheels/eb/d2/bc/00456fd67dd5995ab188ef49ba448fac285b6895ee4c0dfd87/perspective_python-0.4.2.post1-cp37-cp37m-linux_x86_64.whl to build tracker '/tmp/pip-req-tracker-ejzpqgit'
+  Removed perspective-python from file:///home/akulakov/.cache/pip/wheels/eb/d2/bc/00456fd67dd5995ab188ef49ba448fac285b6895ee4c0dfd87/perspective_python-0.4.2.post1-cp37-cp37m-linux_x86_64.whl from build tracker '/tmp/pip-req-tracker-ejzpqgit'
+Requirement already satisfied: ipywidgets>=7.5.1 in ./venv/lib/python3.7/site-packages (from perspective-python) (7.5.1)
+Requirement already satisfied: python-dateutil>=2.8.0 in ./venv/lib/python3.7/site-packages (from perspective-python) (2.8.1)
+Requirement already satisfied: six>=1.11.0 in ./venv/lib/python3.7/site-packages (from perspective-python) (1.14.0)
+Requirement already satisfied: zerorpc>=0.6.1 in ./venv/lib/python3.7/site-packages (from perspective-python) (0.6.3)
+Requirement already satisfied: pandas>=0.22.0 in ./venv/lib/python3.7/site-packages (from perspective-python) (1.0.1)
+Requirement already satisfied: numpy>=1.13.1 in ./venv/lib/python3.7/site-packages (from perspective-python) (1.18.1)
+Requirement already satisfied: psutil>=5.4.8 in ./venv/lib/python3.7/site-packages (from perspective-python) (5.7.0)
+Requirement already satisfied: traitlets>=4.3.2 in ./venv/lib/python3.7/site-packages (from perspective-python) (4.3.3)
+Requirement already satisfied: ipykernel>=4.5.1 in ./venv/lib/python3.7/site-packages (from ipywidgets>=7.5.1->perspective-python) (5.1.4)
+Requirement already satisfied: widgetsnbextension~=3.5.0 in ./venv/lib/python3.7/site-packages (from ipywidgets>=7.5.1->perspective-python) (3.5.1)
+Requirement already satisfied: nbformat>=4.2.0 in ./venv/lib/python3.7/site-packages (from ipywidgets>=7.5.1->perspective-python) (5.0.4)
+Requirement already satisfied: ipython>=4.0.0; python_version >= "3.3" in ./venv/lib/python3.7/site-packages (from ipywidgets>=7.5.1->perspective-python) (7.12.0)
+Requirement already satisfied: gevent>=1.1 in ./venv/lib/python3.7/site-packages (from zerorpc>=0.6.1->perspective-python) (1.4.0)
+Requirement already satisfied: future in ./venv/lib/python3.7/site-packages (from zerorpc>=0.6.1->perspective-python) (0.18.2)
+Requirement already satisfied: pyzmq>=13.1.0 in ./venv/lib/python3.7/site-packages (from zerorpc>=0.6.1->perspective-python) (19.0.0)
+Requirement already satisfied: msgpack>=0.5.2 in ./venv/lib/python3.7/site-packages (from zerorpc>=0.6.1->perspective-python) (1.0.0)
+Requirement already satisfied: pytz>=2017.2 in ./venv/lib/python3.7/site-packages (from pandas>=0.22.0->perspective-python) (2019.3)
+Requirement already satisfied: decorator in ./venv/lib/python3.7/site-packages (from traitlets>=4.3.2->perspective-python) (4.4.1)
+Requirement already satisfied: ipython-genutils in ./venv/lib/python3.7/site-packages (from traitlets>=4.3.2->perspective-python) (0.2.0)
+Requirement already satisfied: tornado>=4.2 in ./venv/lib/python3.7/site-packages (from ipykernel>=4.5.1->ipywidgets>=7.5.1->perspective-python) (6.0.3)
+Requirement already satisfied: jupyter-client in ./venv/lib/python3.7/site-packages (from ipykernel>=4.5.1->ipywidgets>=7.5.1->perspective-python) (6.0.0)
+Requirement already satisfied: notebook>=4.4.1 in ./venv/lib/python3.7/site-packages (from widgetsnbextension~=3.5.0->ipywidgets>=7.5.1->perspective-python) (6.0.3)
+Requirement already satisfied: jsonschema!=2.5.0,>=2.4 in ./venv/lib/python3.7/site-packages (from nbformat>=4.2.0->ipywidgets>=7.5.1->perspective-python) (3.2.0)
+Requirement already satisfied: jupyter-core in ./venv/lib/python3.7/site-packages (from nbformat>=4.2.0->ipywidgets>=7.5.1->perspective-python) (4.6.3)
+Requirement already satisfied: pygments in ./venv/lib/python3.7/site-packages (from ipython>=4.0.0; python_version >= "3.3"->ipywidgets>=7.5.1->perspective-python) (2.5.2)
+Requirement already satisfied: backcall in ./venv/lib/python3.7/site-packages (from ipython>=4.0.0; python_version >= "3.3"->ipywidgets>=7.5.1->perspective-python) (0.1.0)
+Requirement already satisfied: setuptools>=18.5 in ./venv/lib/python3.7/site-packages (from ipython>=4.0.0; python_version >= "3.3"->ipywidgets>=7.5.1->perspective-python) (45.2.0)
+Requirement already satisfied: jedi>=0.10 in ./venv/lib/python3.7/site-packages (from ipython>=4.0.0; python_version >= "3.3"->ipywidgets>=7.5.1->perspective-python) (0.16.0)
+Requirement already satisfied: pexpect; sys_platform != "win32" in ./venv/lib/python3.7/site-packages (from ipython>=4.0.0; python_version >= "3.3"->ipywidgets>=7.5.1->perspective-python) (4.8.0)
+Requirement already satisfied: pickleshare in ./venv/lib/python3.7/site-packages (from ipython>=4.0.0; python_version >= "3.3"->ipywidgets>=7.5.1->perspective-python) (0.7.5)
+Requirement already satisfied: prompt-toolkit!=3.0.0,!=3.0.1,<3.1.0,>=2.0.0 in ./venv/lib/python3.7/site-packages (from ipython>=4.0.0; python_version >= "3.3"->ipywidgets>=7.5.1->perspective-python) (3.0.3)
+Requirement already satisfied: greenlet>=0.4.14; platform_python_implementation == "CPython" in ./venv/lib/python3.7/site-packages (from gevent>=1.1->zerorpc>=0.6.1->perspective-python) (0.4.15)
+Requirement already satisfied: Send2Trash in ./venv/lib/python3.7/site-packages (from notebook>=4.4.1->widgetsnbextension~=3.5.0->ipywidgets>=7.5.1->perspective-python) (1.5.0)
+Requirement already satisfied: prometheus-client in ./venv/lib/python3.7/site-packages (from notebook>=4.4.1->widgetsnbextension~=3.5.0->ipywidgets>=7.5.1->perspective-python) (0.7.1)
+Requirement already satisfied: jinja2 in ./venv/lib/python3.7/site-packages (from notebook>=4.4.1->widgetsnbextension~=3.5.0->ipywidgets>=7.5.1->perspective-python) (2.11.1)
+Requirement already satisfied: nbconvert in ./venv/lib/python3.7/site-packages (from notebook>=4.4.1->widgetsnbextension~=3.5.0->ipywidgets>=7.5.1->perspective-python) (5.6.1)
+Requirement already satisfied: terminado>=0.8.1 in ./venv/lib/python3.7/site-packages (from notebook>=4.4.1->widgetsnbextension~=3.5.0->ipywidgets>=7.5.1->perspective-python) (0.8.3)
+Requirement already satisfied: importlib-metadata; python_version < "3.8" in ./venv/lib/python3.7/site-packages (from jsonschema!=2.5.0,>=2.4->nbformat>=4.2.0->ipywidgets>=7.5.1->perspective-python) (1.5.0)
+Requirement already satisfied: pyrsistent>=0.14.0 in ./venv/lib/python3.7/site-packages (from jsonschema!=2.5.0,>=2.4->nbformat>=4.2.0->ipywidgets>=7.5.1->perspective-python) (0.15.7)
+Requirement already satisfied: attrs>=17.4.0 in ./venv/lib/python3.7/site-packages (from jsonschema!=2.5.0,>=2.4->nbformat>=4.2.0->ipywidgets>=7.5.1->perspective-python) (19.3.0)
+Requirement already satisfied: parso>=0.5.2 in ./venv/lib/python3.7/site-packages (from jedi>=0.10->ipython>=4.0.0; python_version >= "3.3"->ipywidgets>=7.5.1->perspective-python) (0.6.1)
+Requirement already satisfied: ptyprocess>=0.5 in ./venv/lib/python3.7/site-packages (from pexpect; sys_platform != "win32"->ipython>=4.0.0; python_version >= "3.3"->ipywidgets>=7.5.1->perspective-python) (0.6.0)
+Requirement already satisfied: wcwidth in ./venv/lib/python3.7/site-packages (from prompt-toolkit!=3.0.0,!=3.0.1,<3.1.0,>=2.0.0->ipython>=4.0.0; python_version >= "3.3"->ipywidgets>=7.5.1->perspective-python) (0.1.8)
+Requirement already satisfied: MarkupSafe>=0.23 in ./venv/lib/python3.7/site-packages (from jinja2->notebook>=4.4.1->widgetsnbextension~=3.5.0->ipywidgets>=7.5.1->perspective-python) (1.1.1)
+Requirement already satisfied: bleach in ./venv/lib/python3.7/site-packages (from nbconvert->notebook>=4.4.1->widgetsnbextension~=3.5.0->ipywidgets>=7.5.1->perspective-python) (3.1.1)
+Requirement already satisfied: defusedxml in ./venv/lib/python3.7/site-packages (from nbconvert->notebook>=4.4.1->widgetsnbextension~=3.5.0->ipywidgets>=7.5.1->perspective-python) (0.6.0)
+Requirement already satisfied: entrypoints>=0.2.2 in ./venv/lib/python3.7/site-packages (from nbconvert->notebook>=4.4.1->widgetsnbextension~=3.5.0->ipywidgets>=7.5.1->perspective-python) (0.3)
+Requirement already satisfied: mistune<2,>=0.8.1 in ./venv/lib/python3.7/site-packages (from nbconvert->notebook>=4.4.1->widgetsnbextension~=3.5.0->ipywidgets>=7.5.1->perspective-python) (0.8.4)
+Requirement already satisfied: testpath in ./venv/lib/python3.7/site-packages (from nbconvert->notebook>=4.4.1->widgetsnbextension~=3.5.0->ipywidgets>=7.5.1->perspective-python) (0.4.4)
+Requirement already satisfied: pandocfilters>=1.4.1 in ./venv/lib/python3.7/site-packages (from nbconvert->notebook>=4.4.1->widgetsnbextension~=3.5.0->ipywidgets>=7.5.1->perspective-python) (1.4.2)
+Requirement already satisfied: zipp>=0.5 in ./venv/lib/python3.7/site-packages (from importlib-metadata; python_version < "3.8"->jsonschema!=2.5.0,>=2.4->nbformat>=4.2.0->ipywidgets>=7.5.1->perspective-python) (3.0.0)
+Requirement already satisfied: webencodings in ./venv/lib/python3.7/site-packages (from bleach->nbconvert->notebook>=4.4.1->widgetsnbextension~=3.5.0->ipywidgets>=7.5.1->perspective-python) (0.5.1)
+Installing collected packages: perspective-python
+  Created temporary directory: /tmp/pip-unpacked-wheel-ixao88lp
+
+Successfully installed perspective-python-0.4.2.post1
+Cleaning up...
+Removed build tracker: '/tmp/pip-req-tracker-ejzpqgit'
