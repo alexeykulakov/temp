@@ -7,8 +7,6 @@
 #
 from logging import critical
 
-# critical(exc_info=True)
-
 def is_libpsp():
     """Was libbinding successfully loaded in this module?"""
     return __is_libpsp__
